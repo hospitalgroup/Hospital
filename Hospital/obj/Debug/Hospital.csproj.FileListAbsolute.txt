@@ -1,0 +1,11 @@
+C:\Users\janser\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\janser\source\repos\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\janser\source\repos\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.Medico.resources
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.Splash.resources
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\janser\source\repos\Hospital\Hospital\obj\Debug\Hospital.pdb
